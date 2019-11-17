@@ -2,7 +2,7 @@
   "miniprogramRoot": "./dist",
   "projectname": "taro-new-feature",
   "description": "探索Taro新版本功能",
-  "appid": "touristappid",
+  "appid": "wx14a083a458c802a0",
   "setting": {
     "urlCheck": true,
     "es6": false,
