@@ -11,7 +11,9 @@ export default class Index extends Component {
 
   componentWillMount () { }
 
-  componentDidMount () { }
+  componentDidMount () {
+    this.getLoginInfo()
+  }
 
   getLoginInfo = async () => {
     const settings = await Taro.getSetting()
