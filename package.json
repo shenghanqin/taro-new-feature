@@ -31,7 +31,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@tarojs/async-await": "^2.0.0-beta.3",
     "@tarojs/cli": "^2.0.0-beta.3",
     "@tarojs/components": "2.0.0-beta.3",
     "@tarojs/mini-runner": "^2.0.0-beta.3",
