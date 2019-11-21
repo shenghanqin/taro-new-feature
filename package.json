@@ -45,7 +45,9 @@
     "@tarojs/taro-weapp": "2.0.0-beta.3",
     "babel-runtime": "^6.26.0",
     "nerv-devtools": "^1.5.0",
-    "nervjs": "^1.5.0"
+    "nervjs": "^1.5.0",
+    "taro-cropper": "^1.0.6",
+    "taro-plugin-canvas": "^1.0.7"
   },
   "devDependencies": {
     "@tarojs/plugin-babel": "2.0.0-beta.3",
